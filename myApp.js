@@ -14,9 +14,7 @@
 			$scope.myFunc = function () {
 		      $scope.myTxt = "You clicked submit!";
 					}
-
-
-
+					
 		  $scope.clearForm = function (){
 					$scope.sound =null;
 					$scope.verbing=null;
